@@ -1,0 +1,6 @@
+Schemas of various files
+
+User -> (UserID, Name, Password)
+Cards -> (UserID, Name, Card_No, Bank, Balance)
+Payments -> (UserID, PaymentID, Name, Payment_Amt, Recipient, Card_No, Date)
+
